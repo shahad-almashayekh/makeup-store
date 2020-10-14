@@ -1,0 +1,215 @@
+.navbar .navbar-brand
+{
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(34, 22, 33);
+    text-align: center;
+    padding: 0px;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+}
+.navbar .collapse .navbar-nav .nav-item .nav-link{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(34, 22, 33);
+    padding: 0px;
+    text-transform: capitalize;
+}
+.navbar .dropdown-menu{
+    background-color: palevioletred;
+    width:200px;
+    border-color:  rgb(34, 22, 33);
+}
+.navbar .dropdown-menu .dropdown-item{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(34, 22, 33);
+    padding: 10px;
+    text-transform: capitalize;
+    text-align: center;
+}
+.navbar .dropdown-menu  .dropdown-divider{
+    border-color:  rgb(34, 22, 33);
+}
+
+ .s5{
+     background-color: rgb(246, 187, 248);
+ }
+ .s5 .container .row .divin{
+     width: 100%;
+     height: 400px;
+ }
+ .s5 .container .row .divin h1{
+    font-size: 40px;
+  font-style: italic;
+  font-weight: lighter;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(34, 22, 33);
+  text-transform: capitalize;
+  margin-top: 80px;
+  text-align: center;
+ }
+ .s5 .container .row .divin p{
+    font-size: 20px;
+  font-style: italic;
+  font-weight: lighter;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(34, 22, 33);
+  text-transform: capitalize;
+  margin: 20px;
+  text-align: center;
+ }
+ #fbtn{
+    background-color:palevioletred;
+     font-size: 20px;
+   font-style: italic;
+   font-weight: lighter;
+   font-family: 'Times New Roman', Times, serif;
+   color: rgb(34, 22, 33);
+   text-transform: capitalize;
+   border-style: none;
+   text-align: center;
+ }
+ .s5 .container .row .divin .btn{
+ background-color:palevioletred;
+ font-size: 20px;
+font-style: italic;
+font-weight: lighter;
+font-family: 'Times New Roman', Times, serif;
+color: rgb(34, 22, 33);
+text-transform: capitalize;
+border-style: none;
+text-align: center;
+ }
+ .s5 .container .row .divin .form-inline{
+    margin-top:20px;
+ }
+.s5 .container .row .divin .form-inline .form-control{
+    font-size: 20px;
+  font-style: italic;
+  font-weight: lighter;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(34, 22, 33);
+  text-transform: capitalize;
+  border-color: palevioletred;
+  border-style: dotted;
+  outline: none;
+  border-width: .5px;
+  text-align: center;
+}
+.s5 .container .row .divin h3{
+    font-size: 20px;
+  font-style: italic;
+  font-weight: lighter;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(34, 22, 33);
+  text-transform: capitalize;
+  margin: 20px;
+  text-align: center;
+ }
+ .s5 .container .row .divin h4{
+    font-size: 15px;
+  font-style: italic;
+  font-weight: lighter;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(34, 22, 33);
+  margin: 20px;
+  text-align: center;
+ }
+ .s5 .container .row .divin i{
+    font-size: 20px;
+   font-style: italic;
+   font-weight: lighter;
+   color: palevioletred;
+   border-style: none;
+   margin-top: 20px;
+   margin-left: 20px;
+   text-align: left;
+    }
+    .s1
+{
+    width: 100%;
+    height: 450px;
+}
+ .s1 .btn{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(34, 22, 33);
+    padding: 0px;
+    text-transform: capitalize;
+    background-color: palevioletred;
+    padding: 10px;
+    position: absolute;
+    margin: 395px;
+    margin-left: 1210px;
+    border-style: none;
+ }
+ 
+.s2
+{
+    width: 100%;
+    height: 450px;
+}
+ .s2 .btn{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(34, 22, 33);
+    padding: 0px;
+    text-transform: capitalize;
+    background-color: palevioletred;
+    padding: 10px;
+    position: absolute;
+    margin: 395px;
+    margin-left: 1170px;
+    border-style: none;
+ }
+ .s3
+{
+    width: 100%;
+    height: 450px;
+}
+ .s3 .btn{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(34, 22, 33);
+    padding: 0px;
+    text-transform: capitalize;
+    background-color: palevioletred;
+    padding: 10px;
+    position: absolute;
+    margin: 395px;
+    margin-left: 1195px;
+    border-style: none;
+ }
+ .s4
+{
+    width: 100%;
+    height: 450px;
+}
+ .s4 .btn{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(34, 22, 33);
+    padding: 0px;
+    text-transform: capitalize;
+    background-color: palevioletred;
+    padding: 10px;
+    position: absolute;
+    margin: 395px;
+    margin-left: 1195px;
+    border-style: none;
+ }
